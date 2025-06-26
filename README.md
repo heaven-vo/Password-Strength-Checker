@@ -23,9 +23,10 @@ A simple command-line tool written in Python to evaluate the strength of user-pr
 ## 🚀 How to Run
 
 ```bash
-python3 password_checker.py
+python3 password_checker.py 
 
-> 💡 You’ll be prompted to enter your password (it will be hidden), and receive feedback immediately.
+##
+💡 You’ll be prompted to enter your password (it will be hidden), and receive feedback immediately.
 
 Learning Objectives
 Practice regex and control flow in Python
