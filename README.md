@@ -31,3 +31,6 @@ Practice regex and control flow in Python
 Understand password strength metrics
 
 Build logic-based CLI tools as an entry-level cybersecurity exercise
+
+🧑‍💻 Author
+Chí – Entry-level Cyber Security Enthusiast
